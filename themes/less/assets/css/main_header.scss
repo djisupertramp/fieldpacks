@@ -1,0 +1,126 @@
+.main_header {
+  margin: 0;
+  z-index: 6;
+
+  @media only screen and (max-width: 812px) {
+    padding: 10px 0;
+  }
+  .wrapped {
+    align-items: center;
+    justify-content: space-between;
+    @media only screen and (max-width: 812px) {
+      padding: 0;
+      margin-top: 5px;
+      flex-direction: column;
+      justify-content: center;
+    }
+  }
+  .menu {
+    flex: 1;
+    flex-direction: row;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    @media only screen and (max-width: 812px) {
+      flex-direction: column;
+    }
+  }
+  background-color: white;
+  opacity: .95;
+  padding: 20px 0px;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  .social {
+  margin-top: 12px;
+  margin-bottom: 35px;
+    svg {
+      transition: all .4s ease-in-out;
+      &:hover {
+        fill: var(--accent);
+      }
+    }
+    @media only screen and (max-width: 812px) {
+      display: none;
+    }
+    align-items: center;
+    svg {
+      margin: 0;
+      margin-left: 10px;
+    }
+  }
+    .title {
+    @media only screen and (max-width: 812px) {
+      margin-left: 0;
+    }
+  }
+
+  a, a:visited {
+    border: 0;
+    background-image: none;
+    color: var(--onyx);
+    font-weight: 300;
+  }
+  a:hover {
+    background-image: none;
+    border: 0;
+    color: var(--accent);
+
+
+  }
+  @media only screen and (min-width: 812px) {
+
+    .wrapped {
+      margin: 0 auto;
+      width: var(--max-width);
+
+    }
+    .main_menu ul {
+      display: flex;
+      justify-content: center;
+      margin: 0;
+      padding: 0;
+      li:not(:first-of-type)::before {
+        content: "•";
+        Margin: 0 10px;
+      }
+    }
+  }
+  .main_menu li {
+    list-style-type: none;
+    a {
+      font-family:  var(--sans-serif-font);
+      font-weight: normal;
+      font-size: 0.98rem;
+      text-transform: uppercase;
+    }
+  }
+}
+
+.post-img {
+  width: 100%;
+  margin: 0 auto;
+  height: 46rem;
+}
+.post-title {
+  max-width: 60rem;
+  text-align: left;
+  margin: 20px auto;
+  @media only screen and (max-width: 812px) {
+    margin-left: 1rem;
+    margin-right: 1rem;
+  }
+  h1 a {
+    border: 0;
+    background-image: none;
+  }
+  h1 {
+    text-transform: uppercase;
+  }
+  h3 {
+    text-transform: inherit;
+    opacity: .4;
+    font-family: var(--sans-serif-font);
+    font-size: 1.4rem;
+  }
+}

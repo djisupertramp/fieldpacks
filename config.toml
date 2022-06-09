@@ -1,0 +1,88 @@
+
+baseURL = "https://jeremyjanin.com"
+languageCode = "fr"
+DefaultContentLanguage = "fr"
+theme = "less"
+googleAnalytics = "UA-15907591-1"
+RemovePathAccents = true
+timeout = 200000
+enableRobotsTXT = true
+canonifyURLs = true
+paginate = 12
+
+
+[author]
+  name = "Jeremy Janin"
+
+[build]
+  writeStats = true
+
+[permalinks]
+  posts = "/:slug"
+  categories = "/:slug"
+  projects = "/:slug"
+
+[imaging]
+  resampleFilter = "lanczos"
+
+[params]
+  sizes = [ "2048" , "1024" , "512" ]
+  tags = []
+
+  sansSerifFont = "Roboto"
+  titleFont = "Barlow"
+  bodyFont = "Roboto"
+
+  hasLogo = true
+  accentColor = "#037b80"
+
+#heroHeader = false
+
+[taxonomies]
+  category = "categories"
+
+[params.titles]
+  posts = "Journal"
+  categories = "Catégories"
+
+[params.social]
+  email = "hello@jeremyjanin.com"
+  domain = "Jeremy Janin"
+  twitter = "jeremyjanin"
+  instagram = "jeremy.janin"
+  youtube = "UCINkLmBgLVQwS3dNcSpHeeQ"
+  discord = "VuS8nCcmb8"
+
+[params.tinyletter]
+  username = "captainyvon"
+  title = "Poursuivre l'aventure..."
+  description = "Si tu veux rester au courant de mes projets majeurs, abonnes-toi à ma newsletter."
+[[menu.main]]
+  name = "Home"
+  title = "Portfolio"
+  weight = 1
+  identifier = "portfolio"
+  url = "/"
+  [[menu.main]]
+    name = "moments"
+    title = "Moments"
+    weight = 3
+    identifier = "Moments"
+    url = "/moments"
+[[menu.main]]
+  name = "Blog"
+  title = "Blog"
+  weight = 4
+  identifier = "blog"
+  url = "/posts/"
+[[menu.main]]
+  name = "À Propos"
+  title = "Infos & Contact"
+  weight = 5
+  identifier = "now"
+  url = "/now"
+
+[[related.indices]]
+  name = "categories"
+  weight =  1 # We don't really need this, but omitting it would disable the indice.
+  includeNewer = true
