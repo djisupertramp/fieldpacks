@@ -1,4 +1,4 @@
-# Jeremy Janin Blog
+# FIELDPACKS
 
 https://jeremyjanin.com
 This is automatically synced with Netlify
