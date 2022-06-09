@@ -1,9 +1,9 @@
 
-baseURL = "https://jeremyjanin.com"
+baseURL = "https://fieldpacks.fr"
 languageCode = "fr"
 DefaultContentLanguage = "fr"
 theme = "less"
-googleAnalytics = "UA-15907591-1"
+googleAnalytics = ""
 RemovePathAccents = true
 timeout = 200000
 enableRobotsTXT = true
@@ -12,7 +12,7 @@ paginate = 12
 
 
 [author]
-  name = "Jeremy Janin"
+  name = "FIELDPACKS"
 
 [build]
   writeStats = true
@@ -29,9 +29,9 @@ paginate = 12
   sizes = [ "2048" , "1024" , "512" ]
   tags = []
 
-  sansSerifFont = "Roboto"
-  titleFont = "Barlow"
-  bodyFont = "Roboto"
+  sansSerifFont = "times new roman"
+  titleFont = "futura bold"
+  bodyFont = "times new roman"
 
   hasLogo = true
   accentColor = "#037b80"
@@ -46,22 +46,15 @@ paginate = 12
   categories = "Catégories"
 
 [params.social]
-  email = "hello@jeremyjanin.com"
-  domain = "Jeremy Janin"
-  twitter = "jeremyjanin"
-  instagram = "jeremy.janin"
-  youtube = "UCINkLmBgLVQwS3dNcSpHeeQ"
-  discord = "VuS8nCcmb8"
+  email = "hello@fieldpacks.fr"
+  domain = "FIELDPACKS"
+  instagram = "fieldpacks"
 
-[params.tinyletter]
-  username = "captainyvon"
-  title = "Poursuivre l'aventure..."
-  description = "Si tu veux rester au courant de mes projets majeurs, abonnes-toi à ma newsletter."
 [[menu.main]]
   name = "Home"
-  title = "Portfolio"
+  title = "Accueil"
   weight = 1
-  identifier = "portfolio"
+  identifier = "home"
   url = "/"
   [[menu.main]]
     name = "moments"
