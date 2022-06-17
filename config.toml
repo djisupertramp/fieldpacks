@@ -57,8 +57,8 @@ paginate = 12
   identifier = "home"
   url = "/"
   [[menu.main]]
-    name = "Blog"
-    title = "Blog"
+    name = "Sacoches"
+    title = "Sacoches"
     weight = 2
     identifier = "sacoches"
     url = "/sacoches"
