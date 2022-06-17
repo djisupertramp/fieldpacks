@@ -22,9 +22,9 @@ Mini sacoche de cadre à double fermeture éclair, idéal pour transporter l'ess
 {{< photo src="images/tinyframepack1.jpg" wide="true" >}}
 {{< photoset always="2" >}} {{< photo src="images/tinyframepack2.jpg" alt="Sacoches bikepacking FIELDPACKS">}} {{< photo src="images/tinyframepack3.jpg" alt="Sacoches bikepacking FIELDPACKS">}} {{</ photoset >}}
 
-<p class="font-bold">Détails :</p> Fermeture éclair YKK de chaque côté, sortie cable par le dessus de la sacoche, crochet intérieur pour accrocher des clés, fixation avec du velcro auto-agrippant
-<p class="font-bold">Couleurs :</p> Personnalisables — [voir les couleurs](https://fieldpacks.fr/informations-techniques)
-<p class="font-bold">Options possibles :</p> Doublure en Nylon 210D, séparateur pour poche plate du côté de votre choix, point d'attache molle.
+**Détails :**  Fermeture éclair YKK de chaque côté, sortie cable par le dessus de la sacoche, crochet intérieur pour accrocher des clés, fixation avec du velcro auto-agrippant
+**Couleurs :** Personnalisables — [voir les couleurs](https://fieldpacks.fr/informations-techniques)
+**Options possibles :** Doublure en Nylon 210D, séparateur pour poche plate du côté de votre choix, point d'attache molle.
 
 À partir de 65€
 
@@ -34,9 +34,9 @@ Harnais de guidon pour dry bag, idéal pour transporter une tente et le matérie
 {{< photo src="images/handlebarharness1.jpg" wide="true" >}}
 {{< photoset always="2" >}} {{< photo src="images/handlebarharness2.jpg" alt="Sacoches bikepacking FIELDPACKS">}} {{< photo src="images/handlebarharness3.jpg" alt="Sacoches bikepacking FIELDPACKS">}} {{</ photoset >}}
 
-<p class="font-bold">Détails :</p> Livré avec deux sangles polyuréthane, 4x entretoises en mousse EVA, 1 sangle polyester. **Dry bag non inclus.** (Taille recommandée de DryBag entre 7 et 10L)
-<p class="font-bold">Couleurs :</p>  Personnalisables — [voir les couleurs](https://fieldpacks.fr/informations-techniques)
-<p class="font-bold">Options possibles :</p> Système de laçage sur le dessus pour glisser un coupe-vent
+**Détails :** Livré avec deux sangles polyuréthane, 4x entretoises en mousse EVA, 1 sangle polyester. **Dry bag non inclus.** (Taille recommandée de DryBag entre 7 et 10L)
+**Couleurs :** Personnalisables — [voir les couleurs](https://fieldpacks.fr/informations-techniques)
+**Options possibles :** Système de laçage sur le dessus pour glisser un coupe-vent
 
 À partir de 75€
 
@@ -46,9 +46,9 @@ Trousse à outils ultra légère pouvant être fixée sous les rails de la selle
 {{< photo src="images/toolroll2.jpg" wide="true" >}}
 {{< photoset always="2" >}} {{< photo src="images/toolroll1.jpg" alt="Sacoches bikepacking FIELDPACKS">}} {{< photo src="images/toolroll3.jpg" alt="Sacoches bikepacking FIELDPACKS">}} {{</ photoset >}}
 
-<p class="font-bold">Détails :</p> Tool Roll en XPAC VX21 resistant à l'abrasion permettant de ranger les outils essentiels pour une sortie à vélo. Livré avec sangle polyuréthane pour fixer le Tool Roll sous la selle.
-<p class="font-bold">Couleurs :</p> Personnalisables — [voir les couleurs](https://fieldpacks.fr/informations-techniques)
-<p class="font-bold">Options possibles :</p> Pochette zippée amovible par velcro pour ranger des petites accessoires ou pièces (patte de derailleur, adaptateur de valve, maillon de chaine...)
+**Détails :** Tool Roll en XPAC VX21 resistant à l'abrasion permettant de ranger les outils essentiels pour une sortie à vélo. Livré avec sangle polyuréthane pour fixer le Tool Roll sous la selle.
+**Couleurs :**  Personnalisables — [voir les couleurs](https://fieldpacks.fr/informations-techniques)
+**Options possibles :** Pochette zippée amovible par velcro pour ranger des petites accessoires ou pièces (patte de derailleur, adaptateur de valve, maillon de chaine...)
 
 À partir de 40€
 
@@ -58,9 +58,9 @@ Food pouch large (9cm de largeur) pouvant accueillir une gourde Nalgene d'1L ou 
 {{< photo src="images/jumbostembag1.jpg" wide="true" >}}
 {{< photoset always="2" >}} {{< photo src="images/jumbostembag2.jpg" alt="Sacoches bikepacking FIELDPACKS">}} {{< photo src="images/jumbostembag3.jpg" alt="Sacoches bikepacking FIELDPACKS">}} {{</ photoset >}}
 
-<p class="font-bold">Détails :</p> Jumbo Stem Bag bi-color avec fond en mousse EVA pour protéger le contenu des chocs et poche élastique en Durastretch® sur l'avant. Livré avec velcros autoagripants et élastique pour stabiliser la sacoche.
-<p class="font-bold">Couleurs :</p> Personnalisables — [voir les couleurs](https://fieldpacks.fr/informations-techniques)
-<p class="font-bold">Options possibles :</p> Utilisation de matière Dyneema® DCF
+**Détails :** Jumbo Stem Bag bi-color avec fond en mousse EVA pour protéger le contenu des chocs et poche élastique en Durastretch® sur l'avant. Livré avec velcros autoagripants et élastique pour stabiliser la sacoche.
+**Couleurs :**  Personnalisables — [voir les couleurs](https://fieldpacks.fr/informations-techniques)
+**Options possibles :** Utilisation de matière Dyneema® DCF
 
 À partir de 40€
 
