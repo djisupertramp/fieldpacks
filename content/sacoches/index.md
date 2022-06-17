@@ -16,6 +16,23 @@ Les sacoches *FIELDPACKS* sont fait main dans mon petit espace dédié à Lille 
 Découvrez les différents modèles FIELDPACKS de série.
 *Ce sont des produits universels qui n'ont pas de nécessité à être sur-mesure dans leur taille ou gabarit. Toutefois, ils sont tous personnalisables au niveau des couleurs pour des sacoches qui vous ressemblent et qui s'accordent à votre vélo.*
 
+{{< photoset always="2" >}} {{< photo src="images/tinyframepack1.jpg" alt="FIELDPACKS TINY FRAME PACK">}} {{< photo src="images/handlebarharness1.jpg" alt="FIELDPACKS HANDLEBAR HARNESS">}} {{</ photoset >}}
+{{< photoset always="2" >}} {{< photo src="jumbostembag1.jpg" alt="FIELDPACKS JUMBO STEM BAG">}} {{< photo src="images/toolroll1.jpg" alt="FIELDPACKS TOOL ROLL">}} {{</ photoset >}}
+
+# FIELDPACKS sur-mesure
+
+{{< photo src="images/surmesure.jpg" wide="true" >}}
+
+*Je propose aussi de faire du sur-mesure en fonction de vos projets : sacoche de cadre demi ou pleine, sacoche pour panier, trousse de toilettes, porte-monnaies, stuff sacks... N'hésitez pas à me contacter pour en discuter.*
+
+{{< photo src="images/framebag1.jpg" wide="true" >}}
+{{< photoset always="2" >}} {{< photo src="images/framebag2.jpg" alt="Sacoches bikepacking sur-mesure FIELDPACKS">}} {{< photo src="images/molle.jpg" alt="Sacoches bikepacking sur-mesure FIELDPACKS">}} {{</ photoset >}}
+
+Un projet de sacoche que vous ne voyez pas ici ? Un coup de coeur pour un modèle ? Une envie spécifique ? N'hésitez pas à me contacter pour qu'on en discute.
+
+
+
+
 ### TINY FRAME PACK
 Mini sacoche de cadre à double fermeture éclair, idéal pour transporter l'essentiel pour une sortie courte (chambre à air, rustines, téléphone, batterie externe, porte-monnaie, clés de voitures...)
 
@@ -63,7 +80,7 @@ Food pouch large (9cm de largeur) pouvant accueillir une gourde Nalgene d'1L ou 
 
 À partir de 40€
 
-#FIELDPACKS sur-mesure
+# FIELDPACKS sur-mesure
 
 {{< photo src="images/surmesure.jpg" wide="true" >}}
 
