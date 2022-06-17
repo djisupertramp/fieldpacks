@@ -16,17 +16,17 @@ resources:
 {{< photoset always="2" >}} {{< photo src="images/jumbostembag2.jpg" alt="Sacoches bikepacking FIELDPACKS">}} {{< photo src="images/jumbostembag3.jpg" alt="Sacoches bikepacking FIELDPACKS">}} {{</ photoset >}}
 
 DETAILS  
-*Jumbo Stem Bag bi-color avec fond en mousse EVA pour protéger le contenu des chocs et poche élastique en Durastretch® sur l'avant. Livré avec velcros autoagripants et élastique pour stabiliser la sacoche.*  
+Jumbo Stem Bag bi-color avec fond en mousse EVA pour protéger le contenu des chocs et poche élastique en Durastretch® sur l'avant. Livré avec velcros autoagripants et élastique pour stabiliser la sacoche.  
 
 COULEURS  
-*Personnalisables — [voir les couleurs](https://fieldpacks.fr/informations-techniques)*  
+Personnalisables — [voir les couleurs](https://fieldpacks.fr/informations-techniques)  
 
 OPTIONS  
-*Utilisation de matière Dyneema® DCF*  
+Utilisation de matière Dyneema® DCF  
 
 ♥ Fabriqué à la main en France dans mon studio de Lille.  
 À partir de 40€  
 
-————
+————  
 
 *Je propose aussi de faire du sur-mesure en fonction de vos projets : sacoche de cadre demi ou pleine, sacoche pour panier, trousse de toilettes, porte-monnaies, stuff sacks... N'hésitez pas à me contacter pour en discuter.*
