@@ -1,6 +1,6 @@
 ---
-title: "Les sacoches - FIELDPACKS"
-seotitle: "Les sacoches - FIELDPACKS"
+title: "Handlebar Harness - FIELDPACKS"
+seotitle: "Handlebar Harness - FIELDPACKS"
 date: "2022-06-16"
 draft: false
 type: "about"

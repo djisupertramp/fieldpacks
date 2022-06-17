@@ -1,6 +1,6 @@
 ---
-title: "TINY FRAME PACK - FIELDPACKS"
-seotitle: "TINY FRAME PACK - FIELDPACKS"
+title: "Tiny Frame Pack - FIELDPACKS"
+seotitle: "Tiny Frame Pack - FIELDPACKS"
 date: "2022-06-16"
 draft: false
 type: "about"

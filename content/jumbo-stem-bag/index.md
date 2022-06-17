@@ -1,6 +1,6 @@
 ---
-title: "Les sacoches - FIELDPACKS"
-seotitle: "Les sacoches - FIELDPACKS"
+title: "Jumbo Stem Bag - FIELDPACKS"
+seotitle: "Jumbo Stem Bag - FIELDPACKS"
 date: "2022-06-16"
 draft: false
 type: "about"
