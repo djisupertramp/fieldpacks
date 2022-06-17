@@ -9,8 +9,11 @@ resources:
 - src: "1.jpg"
   name: "cover"
 ---
-### JUMBO STEM Bag  
-*Le Jumbo Stem Bag est une sacoche 'video poche' à accrocher au guidon.  Cette food pouch mesure 9cm de largeur) et peut accueillir une gourde Nalgene d'1L, des snacks, un smartphone et des accessoires, ou un appareil photo mirrorless / compact type Fuji X100V, Sony RX100 etc...*  
+### JUMBO STEM BAG
+Le Jumbo Stem Bag est une sacoche 'video poche' à accrocher au guidon.  Cette food pouch mesure 9cm de largeur) et peut accueillir une gourde Nalgene d'1L, des snacks, un smartphone et des accessoires, ou un appareil photo mirrorless / compact type Fuji X100V, Sony RX100 etc...  
+
+♥ Fabriqué à la main en France dans mon studio de Lille.  
+À partir de 40€  
 
 {{< photo src="images/jumbostembag1.jpg" wide="true" >}}
 {{< photoset always="2" >}} {{< photo src="images/jumbostembag2.jpg" alt="Sacoches bikepacking FIELDPACKS">}} {{< photo src="images/jumbostembag3.jpg" alt="Sacoches bikepacking FIELDPACKS">}} {{</ photoset >}}
@@ -24,8 +27,6 @@ Personnalisables — [voir les couleurs](https://fieldpacks.fr/informations-tech
 OPTIONS  
 Utilisation de matière Dyneema® DCF  
 
-♥ Fabriqué à la main en France dans mon studio de Lille.  
-À partir de 40€  
 
 ————  
 
