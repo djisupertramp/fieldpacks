@@ -25,7 +25,6 @@ Mini sacoche de cadre à double fermeture éclair, idéal pour transporter l'ess
 **Détails :**  Fermeture éclair YKK de chaque côté, sortie cable par le dessus de la sacoche, crochet intérieur pour accrocher des clés, fixation avec du velcro auto-agrippant
 **Couleurs :** Personnalisables — [voir les couleurs](https://fieldpacks.fr/informations-techniques)
 **Options possibles :** Doublure en Nylon 210D, séparateur pour poche plate du côté de votre choix, point d'attache molle.
-
 À partir de 65€
 
 ### HANDLEBAR HARNESS
