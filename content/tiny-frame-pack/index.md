@@ -9,8 +9,12 @@ resources:
 - src: "1.jpg"
   name: "cover"
 ---
+#TINY FRAME PACK
+
 Le Tiny Frame Pack est une mini sacoche de cadre à double fermeture éclair réalisée en XPAC. Elle est idéale pour transporter l'essentiel pour une sortie courte (chambre à air, rustines, téléphone, batterie externe, porte-monnaie, clés de voitures...).
-♥ *Fait main en France dans mon studio à Lille.*
+
+♥ Fabriqué à la main en France dans mon studio de Lille.  
+À partir de 65€  
 
 {{< photo src="images/tinyframepack1.jpg" wide="true" >}}
 {{< photoset always="2" >}} {{< photo src="images/tinyframepack2.jpg" alt="Sacoches bikepacking FIELDPACKS">}} {{< photo src="images/tinyframepack3.jpg" alt="Sacoches bikepacking FIELDPACKS">}} {{</ photoset >}}
@@ -22,15 +26,12 @@ Le Tiny Frame Pack est une mini sacoche de cadre à double fermeture éclair ré
 <ul>Crochet intérieur pour accrocher des clés</ul>
 <ul>Fixation avec du velcro auto-agrippant</ul>
 
-**Couleurs :** Personnalisables — [voir les couleurs](https://fieldpacks.fr/informations-techniques)  
+**Options possibles :** Ajout d'une doublure en Nylon 210D, séparateur pour poche plate du côté de votre choix, points d'attaches molle ou lace up, bande réfléchissante...
 
-**Options possibles :** Possibilité de fabriquer en Cordura, doublure en Nylon 210D, séparateur pour poche plate du côté de votre choix, point d'attache molle...
+COULEURS DISPONIBLES
 
-À partir de 65€
+{{< photo src="images/xpac.jpg" wide="true" >}}
 
+Autres options possibles sur demande.
 
-### FIELDPACKS sur-mesure
-
-{{< photo src="images/surmesure.jpg" wide="true" >}}
-
-*Je propose aussi de faire du sur-mesure en fonction de vos projets : sacoche de cadre demi ou pleine, sacoche pour panier, trousse de toilettes, porte-monnaies, stuff sacks... N'hésitez pas à me contacter pour en discuter.*
+[Découvrez-en plus à propos des produits FIELDPACKS](https://fieldpacks.fr/informations-techniques)   
