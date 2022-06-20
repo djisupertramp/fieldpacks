@@ -34,7 +34,7 @@ paginate = 12
   bodyFont = "times new roman"
 
   hasLogo = true
-  accentColor = "#037b80"
+  accentColor = "#C4912A"
 
 #heroHeader = false
 
