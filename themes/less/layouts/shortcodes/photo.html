@@ -1,4 +1,5 @@
 <figure {{ with .Get "class"}}class="{{ . }}"{{ end }}>
+  {{ if isset .Params "link"}}<a href="{{ index .Params "link"}}">{{ end }}
   {{ $media := $.Page.Resources }}
   {{ $original := $media.GetMatch (.Get "src") }}
   {{ if $original }}
@@ -9,4 +10,5 @@
          data-zoom-src="{{ $original.Permalink }}"
          {{ with .Get "alt" }}alt="{{ . }}"{{ end }} data-action="zoom">
   {{ end }}
+  {{ if isset .Params "link"}}</a>{{ end }}
 </figure>
