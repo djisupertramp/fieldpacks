@@ -104,14 +104,14 @@ h1, h2, h3, h4, h5 {
   text-align: left;
   font-weight: normal;
   max-width: 60rem !important;
-  @apply font-sans;
+  @apply font-bold;
 }
 .title {
-  @apply font-sans;
+  @apply font-bold;
 }
 
 .date, .main_menu, footer{
-  @apply font-sans;
+  @apply font-bold;
 }
 
 
