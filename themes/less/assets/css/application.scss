@@ -58,7 +58,6 @@ body {
   font-weight: 300;
   margin: 0;
   padding: 0;
-  font-family:  var(--serif-font);
   text-rendering: optimizeLegibility;
   line-height: 1.62;
 }
@@ -104,16 +103,17 @@ h1, h2, h3, h4, h5 {
   margin: 0;
   text-align: left;
   font-weight: normal;
-  font-family: var(--title-font);
   max-width: 60rem !important;
+  @apply font-sans;
 }
 .title {
-  font-family: var(--title-font);
+  @apply font-sans;
 }
 
 .date, .main_menu, footer{
-  font-family:  var(--sans-serif-font);
+  @apply font-sans;
 }
+
 
 header {
   text-align: center;
@@ -155,12 +155,12 @@ footer {
 }
 
 blockquote {
-  font-family: var(--title-font);
   font-style: italic;
   font-size: 1.4rem;
   border-left: 4px solid var(--accent);
   padding-left: 20px;
   margin-left: -23px;
+  @apply font-sans;
 }
 
 b {
@@ -510,8 +510,8 @@ a.link-block {
 
 span.link-title {
     display: block;
-    font-family: var(--title-font);
     font-size: 21px;
+    @apply font-sans;
 }
 
 span.link-subtitle {
