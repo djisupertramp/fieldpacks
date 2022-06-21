@@ -1,7 +1,7 @@
 ---
-title: "Les sacoches - FIELDPACKS"
-seotitle: "Les sacoches - FIELDPACKS"
-date: "2022-06-16"
+title: "Le sur-mesure - FIELDPACKS"
+seotitle: "Le sur-mesure - FIELDPACKS"
+date: "2022-06-21"
 draft: false
 type: "about"
 resources:
@@ -13,12 +13,13 @@ Les sacoches *FIELDPACKS* sont fait main dans mon petit espace dédié à Lille 
 
 {{< photo src="images/sacoches.jpg" wide="true" >}}
 
-# Les sacoches FIELDPACKS
+# Le sur-mesure FIELDPACKS
 
-Découvrez les différents modèles FIELDPACKS de série.
-*Ce sont des produits universels qui n'ont pas de nécessité à être sur-mesure dans leur taille ou gabarit. Toutefois, ils sont tous personnalisables au niveau des couleurs pour des sacoches qui vous ressemblent et qui s'accordent à votre vélo.*
+{{< photo src="images/surmesure.jpg" wide="true" >}}
 
-![images/tinyframepack1.jpg](FIELDPACKS — TINY FRAME PACK)](https://fieldpacks.fr/tiny-frame-pack)
-![images/handlebarharness1.jpg](FIELDPACKS — HANDLEBAR HARNESS)](https://fieldpacks.fr/handlebar-harness)
-![images/jumbostembag1.jpg](FIELDPACKS — JUMBO STEM BAG)](https://fieldpacks.fr/tiny-frame-pack)
-![images/images/toolroll1.jpg](FIELDPACKS — TOOL ROLL)](https://fieldpacks.fr/tiny-frame-pack)
+*Je propose aussi de faire du sur-mesure en fonction de vos projets : sacoche de cadre demi ou pleine, sacoche pour panier, trousse de toilettes, porte-monnaies, stuff sacks... N'hésitez pas à me contacter pour en discuter.*
+
+{{< photo src="images/framebag1.jpg" wide="true" >}}
+{{< photoset always="2" >}} {{< photo src="images/framebag2.jpg" alt="Sacoches bikepacking sur-mesure FIELDPACKS">}} {{< photo src="images/molle.jpg" alt="Sacoches bikepacking sur-mesure FIELDPACKS">}} {{</ photoset >}}
+
+Un projet de sacoche que vous ne voyez pas ici ? Un coup de coeur pour un modèle ? Une envie spécifique ? N'hésitez pas à me contacter pour qu'on en discute.
