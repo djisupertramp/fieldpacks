@@ -7,8 +7,8 @@
     <img class="lazyload"
          src="{{ $resized.Permalink }}"
          data-src="{{ $original.Permalink }}"
-         data-zoom-src="{{ $original.Permalink }}"
-         {{ with .Get "alt" }}alt="{{ . }}"{{ end }} data-action="zoom">
+         {{ if not (isset .Params "link") }}data-zoom-src="{{ $original.Permalink }}" data-action="zoom"{{ end }}
+         {{ with .Get "alt" }}alt="{{ . }}"{{ end }} >
   {{ end }}
   {{ if isset .Params "link"}}</a>{{ end }}
 </figure>
