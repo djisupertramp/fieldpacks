@@ -52,16 +52,25 @@ paginate = 12
     weight = 1
     identifier = "sacoches"
     url = "/sacoches"
+
+    [[menu.main]]
+      name = "SUR MESURE"
+      title = "SUR MESURE"
+      weight = 2
+      identifier = "sur-mesure"
+      url = "/sur-mesure"
+
   [[menu.main]]
     name = "Informations Techniques"
     title = "Informations Techniques"
-    weight = 2
+    weight = 3
     identifier = "informations"
     url = "/informations"
+    
 [[menu.main]]
   name = "À Propos"
   title = "À Propos"
-  weight = 3
+  weight = 4
   identifier = "now"
   url = "/now"
 

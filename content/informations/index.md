@@ -54,6 +54,6 @@ Les fermetures à glissière représentent la première source de problème pour
 
 Je gère FIELDPACKS seul, en parallèle d'une activité professionnelle principale et par passion. Les délais de fabrications sont donc variables mais le mieux est de me contacter directement avec votre projet et je vous donnerais une indication de délais à ce moment là. N'hésitez pas à me préciser si vous avez une date limite avant un départ en voyage ou un évènement par exemple, je ferai le maximum pour la finir dans les temps.
 
-**Pourquoi recevez-vous votre commande dans un carton usager ?**
+**Pourquoi recevez-vous votre commande dans un carton usagés ?**
 
 J'estime qu'aujourd'hui trop de cartons sont gaspillés alors qu'ils pourraient souvent être ré-utilisés et leur durée de vie rallongée. Récupérer des colis encore en bon état me permet de donner une seconde vie à ces cartons qui partiraient tout droit à la déchetterie. Toutes mes commandes sont donc livrés dans des cartons usagers, récupérés auprès de voisins ou boutiques alentours.
