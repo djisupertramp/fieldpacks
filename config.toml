@@ -29,12 +29,8 @@ paginate = 12
   sizes = [ "2048" , "1024" , "512" ]
   tags = []
 
-  sansSerifFont = "times new roman"
-  titleFont = "futura bold"
-  bodyFont = "times new roman"
-
   hasLogo = true
-  accentColor = "#037b80"
+  accentColor = "#C4912A"
 
 #heroHeader = false
 
@@ -50,28 +46,31 @@ paginate = 12
   domain = "FIELDPACKS"
   instagram = "fieldpacks"
 
-[[menu.main]]
-  name = "Home"
-  title = "Accueil"
-  weight = 1
-  identifier = "home"
-  url = "/"
   [[menu.main]]
-    name = "moments"
-    title = "Moments"
+    name = "Sacoches"
+    title = "Sacoches"
+    weight = 1
+    identifier = "sacoches"
+    url = "/sacoches"
+
+    [[menu.main]]
+      name = "SUR MESURE"
+      title = "SUR MESURE"
+      weight = 2
+      identifier = "sur-mesure"
+      url = "/sur-mesure"
+
+  [[menu.main]]
+    name = "Informations Techniques"
+    title = "Informations Techniques"
     weight = 3
-    identifier = "Moments"
-    url = "/moments"
-[[menu.main]]
-  name = "Blog"
-  title = "Blog"
-  weight = 4
-  identifier = "blog"
-  url = "/posts/"
+    identifier = "informations"
+    url = "/informations"
+    
 [[menu.main]]
   name = "À Propos"
-  title = "Infos & Contact"
-  weight = 5
+  title = "À Propos"
+  weight = 4
   identifier = "now"
   url = "/now"
 
