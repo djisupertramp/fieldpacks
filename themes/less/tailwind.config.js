@@ -25,6 +25,7 @@ module.exports = {
           "monospace"
         ],
         sans: [
+          "futura",
           "-apple-system",
           "BlinkMacSystemFont",
           "Helvetica Neue",
@@ -33,11 +34,11 @@ module.exports = {
           "sans-serif"
         ],
         serif: [
+          "Times New Roman",
           "-apple-system-ui-serif",
           "Iowan Old Style",
           "Apple Garamond",
           "Baskerville",
-          "Times New Roman",
           "Droid Serif",
           "Times",
           "Source Serif Pro",
