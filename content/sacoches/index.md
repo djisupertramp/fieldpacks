@@ -17,7 +17,7 @@ Découvrez les différents modèles FIELDPACKS de série.
 
 {{< photoset always="2" >}}
 {{< photo src="images/tinyframepack1.jpg" alt="Sacoches bikepacking sur-mesure FIELDPACKS" link="/tiny-frame-pack">}}
-{{< photo src="images/handlebarharness1.jpg" alt="Sacoches bikepacking sur-mesure FIELDPACKS" link="/handlebar-harnesslink">}}
+{{< photo src="images/handlebarharness1.jpg" alt="Sacoches bikepacking sur-mesure FIELDPACKS" link="/handlebar-harness">}}
 {{</ photoset >}}
 {{< photoset always="2" >}} {{< photo src="images/jumbostembag1.jpg" alt="Sacoches bikepacking sur-mesure FIELDPACKS" link="/jumbo-stem-bag">}} {{< photo src="images/toolroll1.jpg" alt="Sacoches bikepacking sur-mesure FIELDPACKS" link="/tool-roll">}} {{</ photoset >}}
 

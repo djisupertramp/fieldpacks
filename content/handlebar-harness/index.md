@@ -30,6 +30,7 @@ L'Handlebar Harness est un harnais de dry bag pour guidon conçu pour transporte
 - • *Options possibles : Système de laçage sur le dessus pour glisser un coupe-vent*
 
 **Il s'agit d'un article fabriqué sur commande, veuillez prévoir jusqu'à 10 jours ouvrables pour la production. Sous réserve de modifications en raison des périodes de pointe.**
+
 [Découvrez-en plus à propos des produits FIELDPACKS](https://fieldpacks.fr/informations-techniques)  
 
 ### COULEURS

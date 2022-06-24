@@ -21,7 +21,8 @@ Le Jumbo Stem Bag est une sacoche 'video poche' à accrocher au guidon.  Cette f
 ### DETAILS  
 Jumbo Stem Bag bi-color avec fond en mousse EVA pour protéger le contenu des chocs et poche élastique en Durastretch® sur l'avant. Livré avec velcros autoagripants et élastique pour stabiliser la sacoche.  
 
-**Il s'agit d'un article fabriqué sur commande, veuillez prévoir jusqu'à 10 jours ouvrables pour la production. Sous réserve de modifications en raison des périodes de pointe.**
+**Il s'agit d'un article fabriqué sur commande, veuillez prévoir jusqu'à 10 jours ouvrables pour la production. Sous réserve de modifications en raison des périodes de pointe.**  
+
 [Découvrez-en plus à propos des produits FIELDPACKS](https://fieldpacks.fr/informations-techniques)  
 
 - • Matière : XPAC VX21 ou CORDURA 500den
@@ -35,6 +36,6 @@ Jumbo Stem Bag bi-color avec fond en mousse EVA pour protéger le contenu des ch
 
 ### COULEURS
 
-Voici les couleurs disponibles pour le corps principal de la sacoche. D'autres options sont possibles sur demande. [Discutons-en par message privé](https://instagram.com/fieldpacks)ou [e-mail !](mailto:hello@fieldpacks.fr)
+Voici les couleurs disponibles pour le corps principal de la sacoche. D'autres options sont possibles sur demande. [Discutons-en par message privé](https://instagram.com/fieldpacks) ou [e-mail !](mailto:hello@fieldpacks.fr)
 
 {{< photo src="images/xpac.jpg" wide="true" >}}
