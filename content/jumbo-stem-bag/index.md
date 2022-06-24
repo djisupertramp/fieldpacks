@@ -13,7 +13,7 @@ resources:
 Le Jumbo Stem Bag est une sacoche 'video poche' à accrocher au guidon.  Cette food pouch mesure 9cm de largeur) et peut accueillir une gourde Nalgene d'1L, des snacks, un smartphone et des accessoires, ou un appareil photo mirrorless / compact type Fuji X100V, Sony RX100 etc...  
 
 ♥ Fabriqué à la main en France dans mon studio de Lille.  
-> À partir de 40€  
+>>> À partir de 40€  
 
 {{< photo src="images/jumbostembag1.jpg" wide="true" >}}
 {{< photoset always="2" >}} {{< photo src="images/jumbostembag2.jpg" alt="Sacoches bikepacking FIELDPACKS">}} {{< photo src="images/jumbostembag3.jpg" alt="Sacoches bikepacking FIELDPACKS">}} {{</ photoset >}}
@@ -21,7 +21,7 @@ Le Jumbo Stem Bag est une sacoche 'video poche' à accrocher au guidon.  Cette f
 ### DETAILS  
 Jumbo Stem Bag bi-color avec fond en mousse EVA pour protéger le contenu des chocs et poche élastique en Durastretch® sur l'avant. Livré avec velcros autoagripants et élastique pour stabiliser la sacoche.  
 
-**Il s'agit d'un article fabriqué sur commande, veuillez prévoir jusqu'à 10 jours ouvrables pour la production. Sous réserve de modifications en raison des périodes de pointe.**
+**Il s'agit d'un article fabriqué sur commande, veuillez prévoir jusqu'à 10 jours ouvrables pour la production. Sous réserve de modifications en raison des périodes de pointe. [Découvrez-en plus à propos des produits FIELDPACKS](https://fieldpacks.fr/informations-techniques)**
 
 - • Matière : XPAC VX21 ou CORDURA 500den
 - • Doublure intérieur en Nylon 210D (facile à nettoyer en la sortant du fond de la sacoche)
@@ -37,5 +37,3 @@ Jumbo Stem Bag bi-color avec fond en mousse EVA pour protéger le contenu des ch
 Voici les couleurs disponibles pour le corps principal de la sacoche. D'autres options sont possibles sur demande. [Discutons-en par message privé](https://instagram.com/fieldpacks)ou [e-mail !](mailto:hello@fieldpacks.fr)
 
 {{< photo src="images/xpac.jpg" wide="true" >}}
-
-[Découvrez-en plus à propos des produits FIELDPACKS](https://fieldpacks.fr/informations-techniques)   
