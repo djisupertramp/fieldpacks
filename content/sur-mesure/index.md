@@ -18,7 +18,7 @@ Tous les produits FIELDPACKS sont faits main dans mon petit studio dédié à Li
 
 [Discutons-en !](mailto:hello@fieldpacks.fr)
 
+{{< photo src="images/basketbag.jpg" wide="true" >}}
+{{< photoset always="2" >}} {{< photo src="images/halfframebag.jpg" alt="Sacoches bikepacking sur-mesure FIELDPACKS">}} {{< photo src="images/molle.jpg" alt="Sacoches bikepacking sur-mesure FIELDPACKS">}} {{</ photoset >}}
 {{< photo src="images/framebag1.jpg" wide="true" >}}
-{{< photoset always="2" >}} {{< photo src="images/framebag2.jpg" alt="Sacoches bikepacking sur-mesure FIELDPACKS">}} {{< photo src="images/molle.jpg" alt="Sacoches bikepacking sur-mesure FIELDPACKS">}} {{</ photoset >}}
-{{< photo src="images/framebag1.jpg" wide="true" >}}
-{{< photoset always="2" >}} {{< photo src="images/framebag2.jpg" alt="Sacoches bikepacking sur-mesure FIELDPACKS">}} {{< photo src="images/molle.jpg" alt="Sacoches bikepacking sur-mesure FIELDPACKS">}} {{</ photoset >}}
+{{< photoset always="2" >}} {{< photo src="images/framebag2.jpg" alt="Sacoches bikepacking sur-mesure FIELDPACKS">}} {{< photo src="images/MTNsidefleeced.jpg" alt="Sacoches bikepacking sur-mesure FIELDPACKS">}} {{</ photoset >}}

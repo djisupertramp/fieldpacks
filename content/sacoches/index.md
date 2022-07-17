@@ -11,13 +11,12 @@ resources:
 ---
 ### SACOCHES DE BIKEPACKING
 
-Découvrez les différents modèles FIELDPACKS de série.  
-*Ce sont des produits universels qui n'ont pas de nécessité à être sur-mesure dans leur taille ou gabarit. Toutefois, ils sont tous personnalisables au niveau des couleurs pour des sacoches qui vous ressemblent et qui s'accordent à votre vélo.*
+*Les modèles présentés sont des produits universels qui n'ont pas de nécessité à être sur-mesure dans leur taille ou gabarit. Toutefois, ils sont tous personnalisables au niveau des couleurs pour des sacoches qui vous ressemblent et qui s'accordent à votre vélo.*
 
 
 {{< photoset always="2" >}}
 {{< photo src="images/tinyframepack1.jpg" alt="Sacoches bikepacking sur-mesure FIELDPACKS" link="/tiny-frame-pack">}}
-{{< photo src="images/handlebarharness1.jpg" alt="Sacoches bikepacking sur-mesure FIELDPACKS" link="/handlebar-harnesslink">}}
+{{< photo src="images/handlebarharness1.jpg" alt="Sacoches bikepacking sur-mesure FIELDPACKS" link="/handlebar-harness">}}
 {{</ photoset >}}
 {{< photoset always="2" >}} {{< photo src="images/jumbostembag1.jpg" alt="Sacoches bikepacking sur-mesure FIELDPACKS" link="/jumbo-stem-bag">}} {{< photo src="images/toolroll1.jpg" alt="Sacoches bikepacking sur-mesure FIELDPACKS" link="/tool-roll">}} {{</ photoset >}}
 

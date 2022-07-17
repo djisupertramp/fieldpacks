@@ -9,14 +9,9 @@ resources:
 - src: "1.jpg"
   name: "cover"
 ---
-{{< columns src="cover" after="true" alt="FIELDPACKS" >}}
-<div class="ml-6">
-
-Chaque cycliste, chaque vélo est unique... Donc chaque sacoche devrait l'être aussi.</div>{{</columns >}}
 
 {{< photo src="images/sacoches.jpg" wide="true" >}}
 
-### Hello.  
 Moi c'est [Jeremy](https://jeremyjanin.com), un passionné de bikepacking, de nature et d'images. *FIELDPACKS* est né du constat qu'aujourd'hui on doit soit opter pour des sacoches ultra-légères mais souvent aux couleurs un peu tristes et génériques soit pour des belles sacoches mais beaucoup trop lourdes.  
 
 

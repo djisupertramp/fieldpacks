@@ -38,22 +38,22 @@ Le Durastretch que nous utilisons est un tissu fabriqué aux États-Unis.
 
 {{< photo src="images/FAQ.jpg" wide="true" >}}
 
-**Pourquoi les sacoches FIELDPACKS sont-elles cousues et non collées ?**
+#### Pourquoi les sacoches FIELDPACKS sont-elles cousues et non collées ?
 
-Il y-a une technique appelée "heat welding" (soudure à chaud ou thermocollage) qu'utilisent certaines marques pour assurer une étanchéité complète de leurs sacs et/ou avoir une esthétique sans couture. Pour ma part, je préfère la couture car elle assure une plus grande durabilité dans le temps, pas de risque de décollement des soudures, ce qui rend les sacoches plus résistantes, durables, et réparables.
+Il y-a une technique appelée “heat welding” (soudure à chaud ou thermocollage) qu’utilisent certaines marques pour assurer une étanchéité complète de leurs sacs et/ou avoir une esthétique sans couture. Pour ma part, je préfère la couture car elle assure une plus grande durabilité dans le temps, pas de risque de décollement des soudures, ce qui rend les sacoches plus résistantes, durables, et réparables.
 
-**Les sacoches sont-elles étanches ?**
+#### Les sacoches sont-elles étanches ?
 
-Les tissus que nous utilisons sont imperméables, mais comme les sacs sont cousus, de petites quantités d'eau peuvent s'infiltrer dans les sacs le long des coutures. Cela ne se produit généralement que par temps extrêmement humide.  Nous vous recommandons d'utiliser des sacs étanches dans les sacoches de vélo, si vous voyagez sous la pluie. Gardez à l'esprit que même si les sacs étaient 100% étanches, toute cette sécurité ne serait plus valable dès lors que ouvririez le sac par mauvais temps. Pour minimiser ce risque d'infiltration d'eau, un produit imperméabilisant est appliqué sur les coutures de toutes les sacoches FIELDPACKS. Malgré toutes ces précautions, nous ne garantissons pas l'étanchéité des produits, mais vous pouvez être sûr qu'il gardera votre équipement au sec pendant une tempête de pluie pour les années à venir.
+Les tissus que nous utilisons sont imperméables, mais comme les sacs sont cousus, de petites quantités d’eau peuvent s’infiltrer dans les sacs le long des coutures. Cela ne se produit généralement que par temps extrêmement humide. Nous vous recommandons d’utiliser des sacs étanches type drybag ou stuff sack dans les sacoches de vélo, si vous voyagez sous la pluie. Gardez à l’esprit que même si les sacs étaient 100% étanches, toute cette sécurité ne serait plus valable dès lors que ouvririez le sac par mauvais temps. Pour minimiser ce risque d’infiltration d’eau, un produit imperméabilisant est appliqué sur les coutures de toutes les sacoches FIELDPACKS. Malgré toutes ces précautions, nous ne garantissons pas l’étanchéité des produits, mais vous pouvez être sûr qu’il gardera votre équipement au sec sous une tempête de pluie pour les années à venir.
 
-**Ma fermeture éclair est endommagée, que faire ?**
+#### Comment entretenir ma fermeture éclair ?
 
-Les fermetures à glissière représentent la première source de problème pour n'importe quelle sacoche ou sac à dos. 99 % du temps, il s'agit de problèmes liés à l'usure normale et/ou à l'abus, mais ils sont réparables. Les fermetures à glissière utilisées sont un peu comme votre chaîne, elles nécessitent une lubrification et un nettoyage réguliers pour fonctionner correctement, en particulier lorsqu'elles sont exposées à la poussière et au soleil chaud et sec.  Il existe des produits type *Zipper Ease* qui fonctionnent très bien pour lubrifier un zip... Vous pouvez même utiliser du baume à lèvres si besoin.  Brossez d'abord les dents de la fermeture à glissière — par l'intérieur de la sacoche pour les zips étanches, pour éliminer tout débris éventuel, puis lubrifiez un peu la fermeture pour voir si cela aide.
+Les fermetures à glissière représentent la première source de problème pour n’importe quelle sacoche ou sac à dos. 99 % du temps, il s’agit de problèmes liés à l’usure normale et/ou à l’abus — évitez de sur-charger une sacoche à fermeture éclair — mais ils sont souvent réparables. Les fermetures à glissière sont un peu comme votre chaîne de vélo, elles nécessitent une lubrification et un nettoyage réguliers pour fonctionner correctement, en particulier lorsqu’elles sont exposées à la poussière et au soleil chaud et sec. Il existe des produits type McNett GearAid Zipper Stick qui fonctionnent très bien pour lubrifier un zip… Vous pouvez même utiliser du baume à lèvres si besoin. Brossez d’abord les dents de la fermeture à glissière — par l’intérieur de la sacoche pour les zips étanches, pour éliminer tout débris éventuel, puis lubrifiez une couche du produit sur les dents et faites glisser la fermeture. Entretenez votre fermeture éclair tous les 3-6 mois, encore plus si vous évoluez sur terrain sec et poussiéreux.
 
-**Quel est le délai de fabrication d'une sacoche ?**
+#### Quel est le délai de fabrication d'une sacoche ?
 
 Je gère FIELDPACKS seul, en parallèle d'une activité professionnelle principale et par passion. Les délais de fabrications sont donc variables mais le mieux est de me contacter directement avec votre projet et je vous donnerais une indication de délais à ce moment là. N'hésitez pas à me préciser si vous avez une date limite avant un départ en voyage ou un évènement par exemple, je ferai le maximum pour la finir dans les temps.
 
-**Pourquoi recevez-vous votre commande dans un carton usagés ?**
+#### Pourquoi recevez-vous votre commande dans un carton usagé ?
 
-J'estime qu'aujourd'hui trop de cartons sont gaspillés alors qu'ils pourraient souvent être ré-utilisés et leur durée de vie rallongée. Récupérer des colis encore en bon état me permet de donner une seconde vie à ces cartons qui partiraient tout droit à la déchetterie. Toutes mes commandes sont donc livrés dans des cartons usagers, récupérés auprès de voisins ou boutiques alentours.
+J’estime qu’aujourd’hui trop de cartons sont gaspillés alors qu’ils pourraient souvent être ré-utilisés et leur durée de vie rallongée. Récupérer des colis encore en bon état me permet de donner une seconde vie à ces cartons qui partiraient tout droit à la déchetterie. Toutes mes commandes sont donc livrés dans des cartons usagés, récupérés auprès de voisins ou boutiques alentours.
