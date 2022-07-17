@@ -11,8 +11,7 @@ resources:
 ---
 ### SACOCHES DE BIKEPACKING
 
-Découvrez les différents modèles FIELDPACKS de série.  
-*Ce sont des produits universels qui n'ont pas de nécessité à être sur-mesure dans leur taille ou gabarit. Toutefois, ils sont tous personnalisables au niveau des couleurs pour des sacoches qui vous ressemblent et qui s'accordent à votre vélo.*
+*Les modèles présentés sont des produits universels qui n'ont pas de nécessité à être sur-mesure dans leur taille ou gabarit. Toutefois, ils sont tous personnalisables au niveau des couleurs pour des sacoches qui vous ressemblent et qui s'accordent à votre vélo.*
 
 
 {{< photoset always="2" >}}
