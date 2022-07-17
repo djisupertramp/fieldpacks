@@ -9,10 +9,6 @@ resources:
 - src: "1.jpg"
   name: "cover"
 ---
-{{< columns src="cover" after="true" alt="FIELDPACKS" >}}
-<div class="ml-6">
-
-Chaque cycliste, chaque vélo est unique... Donc chaque sacoche devrait l'être aussi.</div>{{</columns >}}
 
 {{< photo src="images/sacoches.jpg" wide="true" >}}
 
